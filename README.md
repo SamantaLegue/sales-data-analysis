@@ -40,7 +40,7 @@ This project analyzes sales data to identify trends, patterns, and key business 
 - Add predictive analysis  
 ## 📊 Sales Visualization
 
-![Sales Chart](sales-chart.png)
+![Sales Chart](sales-charts.jpeg)
 ---
 
 ## 🚀 Author
