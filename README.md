@@ -38,7 +38,9 @@ This project analyzes sales data to identify trends, patterns, and key business 
 - Build dashboard in Power BI or Tableau  
 - Use Python for deeper analysis  
 - Add predictive analysis  
+## 📊 Sales Visualization
 
+![Sales Chart](sales-chart.png)
 ---
 
 ## 🚀 Author
